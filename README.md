@@ -278,4 +278,78 @@ The FastAPI Swagger interface can be used to test and inspect the available endp
 
 ## Current Project Status
 
-The core project architec
+The core project architecture and major modules have been developed for the SIH26154 solution.
+
+### Implemented / Developed
+
+* Next.js frontend workflow
+* FastAPI backend
+* Document upload and processing
+* Document analysis
+* Configurable transformation parameters
+* Gemini-based content transformation
+* Source-content verification logic
+* Output generation and export functionality
+* REST API communication between frontend and backend
+
+### Ongoing Improvements
+
+* Advanced claim matching and verification
+* Improved frontend result visualization
+* Further output-format integration
+* UI refinement and usability improvements
+* Deployment and production configuration
+
+## Team KAIRO
+
+KAIRO is a five-member team working on SIH26154.
+
+### Team Roles
+
+| Member Role              | Responsibility                                |
+| ------------------------ | --------------------------------------------- |
+| Frontend Developer       | User interface and transformation workflow    |
+| Backend / API Developer  | FastAPI backend, APIs and document processing |
+| AI / GenAI Engineer      | Gemini integration and content transformation |
+| Verification Engineer    | Source analysis and content verification      |
+| Output / Export Engineer | Generated output and document export          |
+
+## Problem Statement Details
+
+**Problem Statement ID:** SIH26154
+
+**Title:** Gen AI Platform for Automated Content Transformation
+
+**Organization:** National Technical Research Organisation (NTRO)
+
+**Category:** Software
+
+**Theme:** Smart Automation
+
+**Team Name:** KAIRO
+
+## Future Improvements
+
+Planned improvements include:
+
+* More advanced document understanding
+* Improved factual consistency checking
+* Better claim-level traceability
+* More robust content-drift detection
+* Additional languages
+* More output formats
+* Improved visualization of verification results
+* Cloud deployment
+* Production-ready authentication and security
+* Scalable API architecture
+
+## Conclusion
+
+KAIRO provides a configurable Generative AI pipeline for transforming a single source document into audience-specific communication outputs while maintaining source grounding and verification.
+
+The project combines document processing, Generative AI, verification, and output generation into a modular workflow designed for automated content transformation.
+
+## License
+
+This project is developed for Smart India Hackathon 2026 under Problem Statement SIH26154.
+
